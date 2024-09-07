@@ -11,8 +11,10 @@ Hello. I'm hayatosc. I'm learning Pharmaceutical Science at Tokyo University of 
 
 # Programmings
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatosc)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatosc)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Learnig Language/Framework
 
