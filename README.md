@@ -25,4 +25,7 @@ Hello. I'm hayatosc. I'm learning Pharmaceutical Science at Tokyo University of 
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=for-the-badge)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?logo=hono&logoColor=white&style=for-the-badge)
 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+
 Because of my work at the comittee, most of my learning language is biased to frontend/TypeScript. But someday I want to learn other languages such as Ruby on Rails, Go and Rust!
