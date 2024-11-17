@@ -16,6 +16,8 @@ Hello. I'm hayatosc. I'm learning Pharmaceutical Science at Tokyo University of 
 ![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hayatosc/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+I'm using [jstrieb/github-stats](https://github.com/jstrieb/github-stats). Big Thanks!
+
 ## Learnig Language/Framework
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge)
