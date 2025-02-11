@@ -8,7 +8,7 @@ Hello. I'm hayatosc. I'm learning Pharmaceutical Science at Tokyo University of 
   - 🏮 The Exective Comittee of Tokyo Univesity of Science School Festival ([s-union](https://github.com/s-union)) (2023 - )
     - The Director of Department of Information System (2024)
   - 🎻 Tokyo University of Science Orchestra (2023 - )
-- 🎲 ad-dice Ltd. (2024 - )
+- 🎲 ad-dice Co., Ltd. (2024 - )
   - Student Engineer (Part time job, related to A.I. and Data Science products.)
 
 # Programmings
@@ -28,6 +28,7 @@ I'm using [jstrieb/github-stats](https://github.com/jstrieb/github-stats). Big T
 ![Next.js](https://img.shields.io/badge/-Nextjs-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white&style=for-the-badge)
 ![Hono](https://img.shields.io/badge/-Hono-E36002?logo=hono&logoColor=white&style=for-the-badge)
+![Hono](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge)
 
 ![Golang](https://img.shields.io/badge/-go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
@@ -37,3 +38,10 @@ I'm using [jstrieb/github-stats](https://github.com/jstrieb/github-stats). Big T
 ![Langchain](https://img.shields.io/badge/-langchain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
 
 I usually learn frontend and A.I. technology.
+
+## Contribution
+
+- [honojs/hono](https://github.com/honojs/hono)
+- [withastro/docs](https://github.com/withastro/docs)
+
+These are a bit contribution, but I want to continue this!
