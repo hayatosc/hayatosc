@@ -5,7 +5,8 @@ Hello. I'm hayatosc. I'm learning Pharmaceutical Science at Tokyo University of 
 # Affiliation
 
 - 🎓 Tokyo University of Science, Department of Pharmacy (2023 - )
-  - 🏮 The Exective Comittee of Tokyo Univesity of Science School Festival ([s-union](https://github.com/s-union)) (2023 - )
+  - 🥼 Goto Labratory (Pharmaceuticals - analytical and physicochemistry) (2026 - )
+  - 🏮 The Exective Comittee of Tokyo Univesity of Science School Festival ([s-union](https://github.com/s-union)) (2023 - 2026)
     - The Director of Department of Information System (2024)
   - 🎻 Tokyo University of Science Orchestra (2023 - )
 - 🎲 ad-dice Co., Ltd. (2024 - )
@@ -43,5 +44,6 @@ I usually learn frontend and A.I. technology.
 
 - [honojs/hono](https://github.com/honojs/hono)
 - [withastro/docs](https://github.com/withastro/docs)
+- [meilisearch](https://github.com/meilisearch/meilisearch)
 
 These are a bit contribution, but I want to continue this!
