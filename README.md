@@ -44,6 +44,7 @@ I usually learn frontend and A.I. technology.
 
 - [honojs/hono](https://github.com/honojs/hono)
 - [withastro/docs](https://github.com/withastro/docs)
-- [meilisearch](https://github.com/meilisearch/meilisearch)
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch)
+- [aqua/aqua-registry](https://github.com/aquaproj/aqua-registry)
 
 These are a bit contribution, but I want to continue this!
